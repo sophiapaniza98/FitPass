@@ -1,0 +1,3 @@
+interface CheckInEligible {
+    boolean canCheckIn();
+}
